@@ -1,7 +1,7 @@
 When performing a task, you must use the capabilities of Selenium WebDriver, a unit test framework (for example JUnit) and the Page Object concept.
 
 Automate the following script:
-1. Open https://cloud.google.com/.
+1. Open https://cloud.google.com/products/calculator/?hl=en
 2. Click on "Add to estimate" button.
 3. Select "Compute Engine".
 4. Fill out the form with the following data:
